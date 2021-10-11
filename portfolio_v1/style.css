@@ -1,15 +1,13 @@
 #change1{
-    color:rgb(247, 242, 242);
-    font-size: 100px;
-    margin: auto;
-    text-align: center;
-    background-color:purple;
-}
-#change2{
  width: 150px;
  height: 180px; 
 
 }
-.change1{
-    color:green;
-};
+ul  {
+    list-style: none;
+}
+.change2{
+    color: blue;
+  
+}
+
